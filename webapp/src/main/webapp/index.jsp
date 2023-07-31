@@ -1,5 +1,6 @@
 <div class="container">
   <form action="/action_page.php">
+    <link href="css/index.css" rel="stylesheet" type="text/css"> 
     <div class="row">
       <h2 style="text-align:center">Login with Social Media or Manually</h2>
       <div class="vl">
