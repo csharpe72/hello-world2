@@ -23,6 +23,9 @@
         <a href="#" class="sharpe btn">
           <i class="fa fa-sharpe fa-fw"></i> Login with Sharpe
         </a>
+        <a href="#" class="sharpe btn">
+          <i class="fa fa-sharpe fa-fw"></i> Login with Sharpe
+        </a>
       </div>
 
       <div class="col">
