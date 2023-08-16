@@ -20,6 +20,9 @@
         <a href="#" class="carl btn">
           <i class="fa fa-carl fa-fw"></i> Login with Carl
         </a>
+        <a href="#" class="sharpe btn">
+          <i class="fa fa-sharpe fa-fw"></i> Login with Sharpe
+        </a>
       </div>
 
       <div class="col">
