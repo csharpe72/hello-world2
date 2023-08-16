@@ -17,6 +17,9 @@
         <a href="#" class="google btn">
           <i class="fa fa-google fa-fw"></i> Login with Google+
         </a>
+        <a href="#" class="carl btn">
+          <i class="fa fa-carl fa-fw"></i> Login with Carl
+        </a>
       </div>
 
       <div class="col">
